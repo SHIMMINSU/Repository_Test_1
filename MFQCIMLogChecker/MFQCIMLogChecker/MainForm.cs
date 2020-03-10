@@ -5082,7 +5082,7 @@ namespace MFQCIMLogChecker
             }
         }
 
-        // Material NG CEID 222
+        // Material NG CEID 222 - Git Test
         private void FOGNGCheck(int line, string[] logLineArray)
         {
             string materialPort = logLineArray[8];
