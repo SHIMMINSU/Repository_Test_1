@@ -1,0 +1,9 @@
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\bin\Debug\MFQCIMLogChecker.exe.config
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\bin\Debug\MFQCIMLogChecker.exe
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\bin\Debug\MFQCIMLogChecker.pdb
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MaterialLogChecker.csprojResolveAssemblyReference.cache
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MaterialLogChecker.csproj.GenerateResource.Cache
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.exe
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.pdb
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MaterialLogChecker.MainForm.resources
+C:\Users\심민수\documents\visual studio 2013\Projects\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MaterialLogChecker.Properties.Resources.resources
