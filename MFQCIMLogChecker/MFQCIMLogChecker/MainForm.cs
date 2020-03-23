@@ -5082,7 +5082,7 @@ namespace MFQCIMLogChecker
             }
         }
 
-        // Material NG CEID 222 - Git Test
+        // Material NG CEID 222
         private void FOGNGCheck(int line, string[] logLineArray)
         {
             string materialPort = logLineArray[8];
@@ -7509,12 +7509,9 @@ namespace MFQCIMLogChecker
                 MessageBox.Show("검사 결과가 없어 Export가 불가능합니다.", "Export Excel Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        // 숫자 엑셀 알파벳 컬럼값 변환
         private string DecToAlphabet(int num)
         {
-            //나눗셈 계산에 사용될 나머지 값
-            int rest;
+            int rest; //나눗셈 계산에 사용될 나머지 값
             string alphabet; //10진수에서 알파벳으로 변환될 값
 
             byte[] asciiA = Encoding.ASCII.GetBytes("A"); // 0=>A
@@ -7529,7 +7526,7 @@ namespace MFQCIMLogChecker
                 alphabet = alphabet.Insert(0, DecToAlphabet(num)); //재귀 호출하며 결과를 앞자리에 insert
             }
             return alphabet; // 최종값 return
-        }
+        }// 숫자 엑셀 알파벳 컬럼값 변환
 
         // Login 기능
         private void btnLogin_Click(object sender, EventArgs e)

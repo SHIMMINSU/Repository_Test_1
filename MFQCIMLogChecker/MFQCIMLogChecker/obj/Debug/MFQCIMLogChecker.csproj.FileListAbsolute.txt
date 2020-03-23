@@ -44,6 +44,3 @@ D:\0.내재화CIM\5.log분석기\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQ
 D:\0.내재화CIM\5.log분석기\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.MainForm.resources
 D:\0.내재화CIM\5.log분석기\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.Properties.Resources.resources
 D:\0.내재화CIM\5.log분석기\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.csproj.GenerateResource.Cache
-D:\GitStudy\MFQCIMLogChecker\MFQCIMLogChecker\bin\Debug\MFQCIMLogChecker.exe.config
-D:\GitStudy\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.exe
-D:\GitStudy\MFQCIMLogChecker\MFQCIMLogChecker\obj\Debug\MFQCIMLogChecker.pdb
