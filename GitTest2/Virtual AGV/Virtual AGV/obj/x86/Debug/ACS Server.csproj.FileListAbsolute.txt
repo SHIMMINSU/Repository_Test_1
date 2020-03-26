@@ -1,0 +1,24 @@
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\bin\Debug\ACS Server.exe
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\bin\Debug\ACS Server.pdb
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csprojResolveAssemblyReference.cache
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS_Server.MainForm.resources
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS_Server.Properties.Resources.resources
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.GenerateResource.cache
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.CoreCompileInputs.cache
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.CopyComplete
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.exe
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.pdb
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\bin\Debug\ACS Server.exe
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\bin\Debug\ACS Server.pdb
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csprojResolveAssemblyReference.cache
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS_Server.MainForm.resources
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS_Server.Properties.Resources.resources
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.GenerateResource.cache
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.CoreCompileInputs.cache
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.csproj.CopyComplete
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.exe
+C:\Users\Ucore\Desktop\HANTECH ECOPRO\3. Source\ACS Server\ACS Server\obj\x86\Debug\ACS Server.pdb
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Client\ACS Server\obj\x86\Debug\ACS Server.exe
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\ACS Client\ACS Server\obj\x86\Debug\ACS Server.pdb
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\Virtual AGV\ACS Server\obj\x86\Debug\ACS Server.exe
+D:\Work Data\Project 2018\HANTECH ECOPRO\3. Source\Virtual AGV\ACS Server\obj\x86\Debug\ACS Server.pdb

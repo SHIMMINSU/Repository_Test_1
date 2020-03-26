@@ -1,0 +1,23 @@
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\bin\Debug\DBSynchronization.exe
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\bin\Debug\DBSynchronization.pdb
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.csprojResolveAssemblyReference.cache
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.Properties.Resources.resources
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.csproj.GenerateResource.Cache
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.exe
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.pdb
+c:\users\심민수\documents\visual studio 2010\Projects\DBSynchronization\DBSynchronization\obj\x86\Debug\DBSynchronization.MainForm.resources
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.exe
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.pdb
+D:\DBSynchronization_20190619\DBSynchronization\bin\Debug\DBSynchronization.exe
+D:\DBSynchronization_20190619\DBSynchronization\bin\Debug\DBSynchronization.pdb
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.csprojResolveAssemblyReference.cache
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.MainForm.resources
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.Properties.Resources.resources
+D:\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.csproj.GenerateResource.Cache
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.exe
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.pdb
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\bin\Debug\DBSynchronization.exe
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\bin\Debug\DBSynchronization.pdb
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.MainForm.resources
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.Properties.Resources.resources
+D:\3.김주찬 과장님\DBSynchronization_20190619\DBSynchronization\obj\x86\Debug\DBSynchronization.csproj.GenerateResource.Cache

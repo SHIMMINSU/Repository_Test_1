@@ -1,0 +1,18 @@
+
+
+VirtualBox 가상머신 2개 사용 서로 통신불가 Setting
+DB Server1 : IP 192.168.0.100
+DB Server2 : IP 192.168.224.102
+
+Host PC : IP 192.168.0.98 / 고급설정 추가 IP 192.168.224.102
+
+프로그램 실행결과 이상없음.
+
+- DB Server1,2 MSSQL 로그인 연결계정 권한 설정
+- MSSQL 설치간 문제 Windows Update
+
+- 서버 속성 - MSSQL Server 인증모드 변경
+- MSSQL 구성관리자 TCP/IP 사용
+- MSSQL 구성관리자 Network 고급 IP 설정
+- Host IP 설정 MSSQL 연결 확인
+- ini 설정
