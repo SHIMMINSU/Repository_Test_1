@@ -11,8 +11,8 @@
     &lt;Enabled&gt;true&lt;/Enabled&gt;
     &lt;LinkFormats&gt;
       &lt;GitExtLinkFormat&gt;
-        &lt;Caption&gt;Issue {4}&lt;/Caption&gt;
-        &lt;Format&gt;http{1}://{2}/{3}/issues\{4}&lt;/Format&gt;
+        &lt;Caption&gt;GITTEST&lt;/Caption&gt;
+        &lt;Format&gt;https://github.com/SHIMMINSU/SMS.git&lt;/Format&gt;
       &lt;/GitExtLinkFormat&gt;
     &lt;/LinkFormats&gt;
     &lt;Name&gt;1.GitHub - issues&lt;/Name&gt;
